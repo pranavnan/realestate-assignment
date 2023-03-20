@@ -1,0 +1,26 @@
+.review-card {
+  max-width: 60%;
+  margin: 6rem auto 0 auto;
+}
+
+.card-lists {
+  display: flex;
+  color: #878987;
+  gap: 3rem;
+}
+
+.card div {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.card-text {
+  font-size: 1.6rem;
+  text-align: left;
+}

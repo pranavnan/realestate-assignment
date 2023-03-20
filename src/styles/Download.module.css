@@ -1,0 +1,40 @@
+.section-download {
+  margin: 4.8rem 0;
+}
+
+.section-download center {
+  display: flex;
+  justify-content: center;
+  padding: 9.6rem 6.8rem;
+  align-items: center;
+}
+
+.download-heading {
+  font-size: 4rem;
+  line-height: 40px;
+  letter-spacing: 0.3%;
+  font-weight: 700;
+  color: #5d534a;
+}
+
+.download-subheading {
+  margin-top: 2rem;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 135%;
+  letter-spacing: 0.005em;
+  color: #555555;
+  opacity: 0.65;
+}
+
+.action-btn img {
+  width: 20%;
+  margin-top: 4rem;
+  margin-left: 1rem;
+}
+
+.mobile-app img {
+  width: 80%;
+}

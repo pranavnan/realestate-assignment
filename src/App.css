@@ -24,15 +24,30 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+ul {
+  list-style: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a {
+  text-decoration: none;
+}
+
+.all-headings {
+  font-size: 5rem;
+  line-height: 70px;
+  letter-spacing: 0.3%;
+  font-weight: 700;
+  color: #5d534a;
+}
+
+.all-subheadings {
+  font-size: 2rem;
+  margin-top: 1rem;
+  font-family: 'Inter';
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 0.005em;
+  color: #5d534a;
+  font-weight: 400;
+  opacity: 0.65;
 }

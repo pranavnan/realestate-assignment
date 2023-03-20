@@ -1,0 +1,27 @@
+.featured-cards {
+  margin-top: 9.6rem;
+  max-width: 80%;
+}
+
+.feature-cards {
+  display: flex;
+
+  /* align-items: center; */
+  /* justify-content: space-around; */
+  /* gap: 3rem; */
+}
+
+.feature-img {
+  width: 80%;
+}
+
+.feature-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 47px;
+
+  letter-spacing: 0.003em;
+
+  color: #555555;
+}

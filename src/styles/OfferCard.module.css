@@ -1,0 +1,43 @@
+.section-offer {
+  margin-top: 9.6rem;
+  max-width: 8 0%;
+}
+
+.offers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.offer {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  max-width: 20%;
+  padding: 0 2.8rem 2.8rem 2.8rem;
+}
+
+.offer:first-child {
+  border: 3px solid #00434691;
+}
+
+.offer__icon {
+  width: 40%;
+  margin-top: -3rem;
+}
+
+.offer__title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  color: #878987;
+}
+
+.offer_description {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  font-family: 'Inter';
+  line-height: 132%;
+  letter-spacing: 0.003em;
+  color: #353a40;
+}

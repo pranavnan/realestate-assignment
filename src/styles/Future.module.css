@@ -1,0 +1,43 @@
+.section-future {
+  margin: 9.6rem 0;
+  display: flex;
+}
+
+.future-image {
+  width: 50%;
+}
+
+.future-details {
+  max-width: 40%;
+  margin-left: 4rem;
+}
+
+.future-heading {
+  font-size: 5rem;
+  line-height: 70px;
+  letter-spacing: 0.3%;
+  font-weight: 700;
+  color: #5d534a;
+}
+
+.future-description {
+  margin-top: 2rem;
+  font-size: 2.4rem;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+  letter-spacing: 0.005em;
+  color: #5d534a;
+  opacity: 0.65;
+}
+
+.btn {
+  margin-top: 6rem;
+  background: #004346;
+  color: #fff;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  padding: 1rem 3rem;
+  cursor: pointer;
+}

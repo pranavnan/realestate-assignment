@@ -1,0 +1,22 @@
+.section-customer {
+  margin-top: 9.6rem;
+  color: #5d534a;
+}
+
+.container h1 {
+  font-size: 5rem;
+}
+
+.customer-description {
+  font-size: 2rem;
+  max-width: 40%;
+  margin-top: 1rem;
+  font-family: 'Inter';
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 0.005em;
+
+  color: #5d534a;
+  font-weight: 400;
+  opacity: 0.65;
+}

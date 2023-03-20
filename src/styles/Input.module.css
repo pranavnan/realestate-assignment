@@ -1,0 +1,22 @@
+.search-box {
+  background-color: #fff;
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  display: flex;
+  width: 70%;
+  padding: 1rem 2rem;
+  border-radius: 100px;
+}
+
+.search-box input {
+  outline: none;
+  border: none;
+  width: 100%;
+  font-size: 3.4rem;
+  text-align: center;
+}
+
+.search-box img {
+  width: 5%;
+}
